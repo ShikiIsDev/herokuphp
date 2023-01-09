@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Enrico Guo",
+        "email": "21024483@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+}
